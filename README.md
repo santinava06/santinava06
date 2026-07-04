@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Santiago Navarro
 
-<!--
-**santinava06/santinava06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React • TypeScript • Tauri • Node.js
 
-Here are some ideas to get you started:
+────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+SokHome
+[ https://sokhome.netlify.app/ ] [ https://github.com/santinava06/sok-landing ]
+
+Gym Dashboard
+[ https://gym-dashboard-opal.vercel.app/login ] [ https://github.com/santinava06/gym-dashboard ]
+
+────────────────────────────
+
+🛠 Tech Stack
+
+React
+TypeScript
+Node.js
+PostgreSQL
+Docker
+Linux
+
+────────────────────────────
+
+📊 GitHub Stats
+
+📫 Contact
+www.linkedin.com/in/santinavarro-dev
+https://www.santin.site/
