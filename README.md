@@ -1,32 +1,72 @@
-👋 Hi, I'm Santiago Navarro
+# 👋 Hi, I'm Santiago Navarro
 
-React • TypeScript • Tauri • Node.js
+**Full Stack Software Developer** from Argentina 🇦🇷
 
-────────────────────────────
+I build modern web and desktop applications focused on performance, user experience, and clean architecture. My primary stack is React, TypeScript, Node.js, and Tauri.
 
-🚀 Featured Projects
+---
 
-SokHome
-[ https://sokhome.netlify.app/ ] [ https://github.com/santinava06/sok-landing ]
+## 🚀 Featured Projects
 
-Gym Dashboard
-[ https://gym-dashboard-opal.vercel.app/login ] [ https://github.com/santinava06/gym-dashboard ]
+### 🏠 SokHome
 
-────────────────────────────
+A modern home management platform focused on simplicity and productivity.
 
-🛠 Tech Stack
+* 🌐 **Live Demo:** https://sokhome.netlify.app/
+* 💻 **Repository:** https://github.com/santinava06/sok-landing
 
-React
-TypeScript
-Node.js
-PostgreSQL
-Docker
-Linux
+### 💪 Gym Dashboard
 
-────────────────────────────
+A responsive dashboard for gym management with authentication, analytics, and member administration.
 
-📊 GitHub Stats
+* 🌐 **Live Demo:** https://gym-dashboard-opal.vercel.app/login
+* 💻 **Repository:** https://github.com/santinava06/gym-dashboard
 
-📫 Contact
-www.linkedin.com/in/santinavarro-dev
-https://www.santin.site/
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React
+* TypeScript
+* Next.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express
+* PostgreSQL
+
+### Desktop
+
+* Tauri
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Linux
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+<!-- GitHub Streak -->
+
+<!-- Top Languages -->
+
+---
+
+## 🌐 Connect with Me
+
+* Portfolio: https://www.santin.site/
+* LinkedIn: https://www.linkedin.com/in/santinavarro-dev
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
